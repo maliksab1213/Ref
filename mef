@@ -1,1 +1,28 @@
-watch video | 350
+{
+  "dailyTasks": [
+    {
+      "taskId": "task1",
+      "name": "Bitcoin Rainbow Chart?",
+      "url": "https://example.com/bitcoin-rainbow-chart",
+      "points": 350,
+      "completed": true
+    },
+    {
+      "taskId": "task2",
+      "name": "Token Burning: How & Why?",
+      "url": "https://example.com/token-burning",
+      "points": 350,
+      "completed": false
+    }
+  ],
+  "socialMediaTasks": [
+    {
+      "taskId": "task3",
+      "name": "Follow our Facebook Page",
+      "url": "https://facebook.com/ourpage",
+      "points": 200,
+      "completed": false
+    }
+  ]
+}
+
